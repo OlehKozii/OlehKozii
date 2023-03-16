@@ -1,6 +1,6 @@
 ![](https://github.com/OlehKozii/OlehKozii/blob/main/Welcome.gif)<br />
 
-### :briefcase: Currently looking for a Full stack/Back-end/Front-end developer job
+### <ins><b>❗️❗️:briefcase: Currently looking for a Full stack/Back-end/Front-end developer job❗️❗️</b></ins>
 ### Contact me :iphone:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-kozii-239916251/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ukraine2342@gmail.com)
