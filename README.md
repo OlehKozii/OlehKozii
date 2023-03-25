@@ -1,7 +1,7 @@
 ![](https://github.com/OlehKozii/OlehKozii/blob/main/Welcome.gif)<br />
 
 ## <ins><b>❗️❗️:briefcase: Currently looking for a Full stack/Back-end/Front-end developer job❗️❗️</b></ins>
-#Techs: [![My Skills](https://skillicons.dev/icons?i=js,ts,react,sass,nodejs,express,nestjs,mongodb,postgres,heroku)](https://skillicons.dev)
+# Techs: [![My Skills](https://skillicons.dev/icons?i=js,ts,react,sass,nodejs,express,nestjs,mongodb,postgres,heroku)](https://skillicons.dev)
 ## Contact me :iphone:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-kozii-239916251/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ukraine2342@gmail.com)
