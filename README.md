@@ -2,7 +2,8 @@
 
 <!-- ## <ins><b>❗️❗️:briefcase: Currently looking for a Full stack/Back-end/Front-end developer job❗️❗️</b></ins> -->
 ## About me 👋 <br />
-- :man_technologist: Full stack developer, using Typescript, React(Next.js), Node.js(Express.js, Nest.js), NoSQL(MongoDB) and SQL(MySQL, MariaDB, PostgreSQL) with focus on Back-end :dizzy:<br />
+- :man_technologist: Full stack developer in Kevych Solutions
+- :rocket: Typescript, React(Next.js), Node.js(Express.js, Nest.js), NoSQL(MongoDB) and SQL(MySQL, MariaDB, PostgreSQL) with focus on Back-end :dizzy:<br />
 - 🔎 Currently studying Next.js, Nest.js, RabbitMQ, Docker, Redis<br />
 - :books: Graduated from the Technical College of Ternopil National University with a degree in "Computer Engineering" in 2022.<br />
 At the moment, I am studying at the "Computer Science" specialty at Lviv Polytechnic National University.
